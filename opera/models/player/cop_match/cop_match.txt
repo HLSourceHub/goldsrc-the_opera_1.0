@@ -1,0 +1,4 @@
+"Match" (Cop 2) player model
+
+Mesh created by Tom "Vermilion" Dunne
+Skin created by Springer

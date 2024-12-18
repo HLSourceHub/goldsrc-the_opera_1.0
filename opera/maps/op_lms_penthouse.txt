@@ -1,0 +1,15 @@
+Name: The Penthouse
+Desiger: T@tsu
+Maptype: Two player LMS
+#Players: 2-3
+
+Description:
+After Xian's last appartment was torched by
+The Tong he decided to relocate to this
+place. The paint is still drying on this
+fully funished assassin's pad. It comes
+complete with rooftop pool, bar, and widescreen
+with THX SRS. Even a couple of little added
+bonuses for those sly enough to find them...
+
+GET READY!

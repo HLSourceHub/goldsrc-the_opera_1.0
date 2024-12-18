@@ -1,0 +1,15 @@
+Name: The Harbor Infested!
+Desiger: T@tsu
+Maptype: Unlimited Mookmatch
+#Players: 1-3
+
+Description:
+Wei Long has been using the warehouse
+district to traffic his brand of drugs.
+You plan to put a stop that.
+
+Tonight you plan a strike at the heart
+the trade. Tonight you plan to stick it
+to the scum and all his pathetic mooks.
+
+Get Ready!

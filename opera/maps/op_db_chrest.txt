@@ -1,0 +1,36 @@
+Name: Chinese Restaurant and Carry Out
+Desiger: Joshua Coyne AKA Gage
+Maptype: "Dueling Berettas" 2 player LMS
+#Player: 3-6
+
+Description:
+It is early Sunday morning and just as
+you were about to enjoy a good day of
+slacking off from your triad duties, an
+opposing family has sent in a bunch of
+asses to ruin your weeked. Take the damned
+bastards out fast and you just might have
+time to catch the end of the game...
+
+------- MORE -------
+
+I Would Like To Extend my thanks to:
+
+Valve Software, and the Redeemed Assassins.
+
+HEXXXER for the cool textures,
+map ideas, and tweetie destruction.
+
+Textures By(Used With Permission):
+	schwenz@evilfucker.com
+	meatpak@hotmail.com
+	undule@tampabay.rr.com
+	Locknut@netscape.net
+	http://www.saturn-online.de/~cosmo/
+	http://www.3dpalette.org/~rorshach
+	HEXXXER: hexxxed@hotmail.com	
+	
+Bar Song is Breakit23 By Daidoji
+(Used With Permission)
+
+--------------------

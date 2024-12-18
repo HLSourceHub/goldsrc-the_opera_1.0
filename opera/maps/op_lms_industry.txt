@@ -1,0 +1,11 @@
+Name: Shadowy Industry
+Designer: Yamazaki (AKA Brian Dorner)
+Type: Opera Deathmatch
+Players: 2-6
+
+Description:
+Day or night, business is conducted in the criminal underworld around the 
+clock. Sometimes the arrangements don't go as planned and the deals go 
+sour. It happens all the time, and tonight its happening here. This 
+processing plant normally breaks down raw materials, but now it will 
+seperate the quick from the dead.

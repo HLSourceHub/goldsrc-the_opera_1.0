@@ -1,0 +1,9 @@
+Since all pistols share the same animations I have made generic sounds for many of the animations. All the sound files starting with "pistol_" are shared by all pistols, large and small caliber. This is due to the fact that these sounds ae virtually indistinguishable from one another and because it is unnecessary to duplicate each of these for each pistol because of the identical animations as well.
+
+All sounds starting with "pistol_large_" are shared by all large caliber pistols and All sounds starting with "pistol_small_" are shared by all small caliber pistols. Like the above two examples, the same stands for "smg_" files.
+
+The "single_draw2" animation is the only sound that that has different sounds for each pistol. Each pistol has a sound effect to go with this animation and is named "PISTOLNAME"_single_draw2.wav matching each pistol name. This may not be ideal, but is necessary due to the radical differences in cocking type. This sound effect is also, incidentally, the COCKING SOUND for each pistol can also be used for that purpose as well if the need arises. (Like it may be needed as an ending sound for several of the "fire last" animations after the weapon fire sound.)
+
+Becuase the SMGs are so different a "do all the animations" approach was required to get the timing and sounds corectly aligned with the animations. This mean that each SMG has sounds matching their animations that are unique to them.
+
+Many of the "single" sounds can be used for their "dual" counterpart or another "dual animations and are therefore NOT duplicatd for the other side. ALL OTHER UNIQUE SOUNDS have names starting with "WEAPONNAME_" as their prefix. ALL these sounds coresspond to the animations they that they suffix.

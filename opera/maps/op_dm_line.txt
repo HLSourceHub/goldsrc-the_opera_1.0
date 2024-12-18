@@ -1,0 +1,13 @@
+Name: End of the Line
+Designer: Yamazaki (AKA Brian Dorner)
+Type: Opera DM
+#Players: 2-4
+
+Description:
+Ocean View station has been boarded up for
+years due to structural problems, though the
+train still passes through regularly on its
+way to other stops. Most folks are smart
+enough not to come down here, but you've got
+business to attend to. This won't be pleasant,
+but business rarely is.

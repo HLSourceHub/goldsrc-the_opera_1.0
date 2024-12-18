@@ -1,0 +1,13 @@
+Name: Takataka showdown
+Desiger: T@tsu
+Maptype: Opera DM
+#Players: 2+
+
+Description:
+Shinkansen Nihon is dead at 4 A.M. on a Thursday.
+You have plans to change that.
+Most of the people are home at this time of ''day'', but not you.
+You are here for some fireworks.
+
+Take your snuff and strap on some extra ammo...This part is just
+gettin started!

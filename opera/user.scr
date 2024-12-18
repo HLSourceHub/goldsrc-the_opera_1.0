@@ -1,0 +1,219 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// User options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Fri Apr 27 12:02:11 AM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION INFO_OPTIONS
+{
+	"cl_decals"
+	{
+		"Multiplayer decal limit"
+		{ NUMBER 0.000000 4096.000000 }
+		{ "300.000000" }
+	}
+
+	"_op_thirdperson"
+	{
+		"Third Person view"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_hud"
+	{
+		"Heads Up Display"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_bodies"
+	{
+		"Fading Corpses"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_doubletap"
+	{
+		"Double-tap keyboard delay"
+		{ NUMBER 0.000000 4.000000 }
+		{ "0.5" }
+	}
+
+	"op_autostand"
+	{
+		"Automatically stand after dives"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_dodge"
+	{
+		"Double-tap dodging"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_heartbeat"
+	{
+		"Heartbeat sound with 'Discipline of Perception'"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_mp3player"
+	{
+		"Half-Life MP3 Player"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_hidecash"
+	{
+		"Hide frags/death HUD element"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_hideaction"
+	{
+		"Hide cash HUD indicator"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_hideaction"
+	{
+		"Hide action meter HUD indicator"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_hidebullets"
+	{
+		"Hide bullet counter HUD indicator"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"op_autoreload"
+	{
+		"Automatic reload"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_bloodeffects"
+	{
+		"Enhanced blood effects"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_smokepuffs"
+	{
+		"Weapon smoke effects"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_tracers"
+	{
+		"Weapon tracers"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_muzzleflashes"
+	{
+		"Enhanced muzzle flashes"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_debris"
+	{
+		"Texture based debris"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_raindensity"
+	{
+		"Rain effect density (where applicable)"
+		{
+			LIST
+			"No rain" "0.0"
+			"Mild" "3.0"
+			"Medium" "7.0"
+			"Normal" "10.0"
+			"Extreme" "15.0"
+		}
+		{ "5.000000" }
+	}
+
+	"op_firelight"
+	{
+		"Dynamic fire lighting"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_dynalights"
+	{
+		"Dynamic lighting"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"op_armskin"
+	{
+		"View model arm skin"
+		{
+			LIST
+			"White" "0"
+			"Black" "1"
+			"Tattoos" "2"
+			"Pale" "3"
+			"Dragon" "4"
+			"Gloves" "5"
+		}
+		{ "2.000000" }
+	}
+}

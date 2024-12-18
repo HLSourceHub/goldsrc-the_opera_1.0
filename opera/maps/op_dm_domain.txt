@@ -1,0 +1,12 @@
+Name: The Boss' Domain
+Designer: Yamazaki (AKA Brian Dorner)
+Type: Opera DM
+#Players: 2-6
+
+Description:
+Welcome to the top floor of the Shimazu Industries 
+building. This successful Japanese firm is well-known
+for its top notch overseas shipping. The fact that it
+is a Yakuza front is not so well-known. I hope you have 
+an appointment as all the executives are currently in a 
+top-level meeting.

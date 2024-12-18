@@ -1,0 +1,39 @@
+Name: Escape from the arcade!
+Designer: Nick Cramer (drumdude)
+Type: Opera Mookmatch
+#Players: 1-4
+
+Description:
+Rival triad leader Fu Leng has captured you,
+emptied your pockets, and imprisoned you in
+his secret underground confinement located 
+underneath the "GamePort" family entertainment
+center that he owns. 
+
+Looks like they forgot to check a few pockets. 
+
+Break out of your cage, and escape through the
+arcade. Show no mercy, even to the videogames.
+
+------- MORE-------
+COPYRIGHT INFORMATION
+
+
+Mook Arcade is copyright 2001 Nick Cramer.
+
+This map may be distributed free of charge
+and ONLY free of charge.
+
+(E-mail your LUB to: drumdude37@yahoo.com)
+
+Textures:
+
+-http://www.klov.com (Got a lot of pictures of
+games from this site. Check out their site if
+you want to travel down memory lane or are interested
+in the hobby of arcade game collection)
+
+Special Thanks:
+The Redeemed Assassins, MP*Lennon, MrWhite,
+various testers...
+--------------------

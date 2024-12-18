@@ -1,0 +1,31 @@
+Map Name: Assign Retribution (Grento)
+Designer: Mr Myre (Daniel Lawrence)
+Type: Opera Mookmatch
+Players: 1-2
+
+The Setup:
+Your brother is dead. Cut down ruthlessly by
+your former employers the Lai Family as a
+punishment for a failed drug run. Having
+escaped from prison it's time to take your revenge. 
+
+Some important members of the Lai family are
+having a meeting on the top floor of a nearby
+office block. I think you know what to do.
+
+Tips:
+- Take it slow and be cautious. A suprised mook is a dead mook.
+- Remember your heroic acts and use them wisely.
+- Enjoy yourself and try and maximise your score.
+
+Thanks to:
+Lenny & Springer - Texturing and feedback
+Mr Swade - Additional design
+Gage - Compilation assistance
+Clay_9 - The car in the street
+Nighthawk - Additional entities
+
+The rest of the Redeemed Assasains and Beta testers for their
+support and Leech for just being :D
+ 
+ 

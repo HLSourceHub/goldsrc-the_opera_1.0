@@ -1,0 +1,14 @@
+Name: The Harbor Infested!
+Desiger: T@tsu
+Maptype: Opera Free For All
+#Players: 3-8
+
+Description:
+The warhouse of drug loard Wei Long
+is home to many exotic suplies.
+Tonight you will fight for your life
+amidst the boxes containers and crates.
+Tonight you strike back against Mr.
+Long's AND his assassin goons...
+
+Get Ready!

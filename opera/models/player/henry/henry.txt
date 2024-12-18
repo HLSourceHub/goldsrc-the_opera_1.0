@@ -1,0 +1,23 @@
+FILE TYPE: SKIN
+BASE: Trechcoat 2
+NAME: Henry Li
+ARTIST(S): Tom Dunne(MODEL), Dave Flor(CODE) and Trent Ayers(SKIN)
+DATE: 6-4-01
+
+INFO: This is a player model skin based off of Tom Dunne's Opera player model. It 
+requires The Opera TC for Half-Life to operate and the latest Half-Life patch. 
+This model is not for use with any other programs. It is not provided with stand 
+alone support.
+
+DESCRIPTION: Henry Li is a NYPD cop that has been fighting organized crime undercover 
+for the past three years. The role of undercover investigator has blurred as he is 
+called to be a Triad assassin. Henry is wearing a gray trenchcoat, blue button up 
+shirt with white cotton unsershirt and a pair of white slacks.
+
+INSTALLATION INSTRUCTIONS: This is a core model and is therefore included with The 
+Opera. No fidgeting required...or suggested.
+
+THANKS/MISC: Many thanks go out to Tom Dunne, without whom my dream of skinning a 
+model like this would have never happened. To Dave Flor as well for setting up the 
+code and getting the model functioning at all! God need thanks too, for without him, 
+I would be a dead man after that whole VGUI/HUD thing...^_^

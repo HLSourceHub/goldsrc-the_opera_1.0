@@ -1,0 +1,302 @@
+// This is the player death texts that are displayed when a player dies
+// %p1 = The dying player
+// %p2 = The player doing the killing (If applicible)
+// Alter at your own risk
+// 
+// -The Redeemed Assassins
+
+#player_kick
+%p2's Kung-Fu is superior to %p1's pathetic maneuvers.
+%p2 kicks...%p2 SCORES!!! %p1 doesn't look too happy about it.
+%p2's boot smashes into %p1 's ass and the result is hamburger.
+%p2 walks all over %p1.
+%p1 found a boot in their butt. %p2 lost a boot. Do the math.
+%p1 tastes the shoestring of %p2. Yum Yum.
+%p1's ass, %p2's foot. You can see how it all happened folks.
+%p2 scrapes %p1 of their boot.
+%p2 does the Mexican hat dance on %p1's bloody corpse. Yada Ya Yada ya yada ya ya.
+%p2 leaves a footprint on %p1.
+
+#world_fall
+%p1 thought he could fly...WRONG!
+%p1 took a swan dive head first into a dry pool.
+%p1 wrote a check to the ground and their ass couldn't cash it.
+%p1 goes down with a thundrous SPLAT!
+%p1 checks out... the hard way.
+%p1 falls and leaves a crater.
+%p1 is a smear thanks to gravity.
+%p1 went out on a limb and then it snapped.
+%p1 thought that they could make the jump. Noone makes their first jump, %p1!
+%p1 goes lemming on us.
+Look up in the sky! It's a bird! It's a plane! No, it's %p1!
+Houston...%p1 has a problem.
+Ooh, that's gonna leave a mark, %p1.
+
+#weapon_tomcat
+%p1 was humiliated by %p2's back-up weapon.
+%p1 finds out what %p2 had up their sleeves.
+%p1 got capped by %p2's Tomcats.
+The little bang of %p2's Tomcats is underestimated by %p1's stupid ass.
+%p1 meets the business end of %p2's Tomcats akimbo.
+%p1 fights a losing fight against %p2's Tomcat action.
+%p2 takes out %p1 with their spring loaded little buddies.
+
+// For mixed akimbos when/if implemented
+#__akimbo
+%p1 got WOOed by %p2's akimbo sweetness.
+%p2 owned %p1 with blazing akimbo death.
+%p1 drops after a furious exchange with %p2's raw akimbo madness.
+%p2 is a god of the akimbo -vs- %p1's sad ass.
+
+#weapon_knife_combat
+%p2 does exploratory surgery on %p1.
+%p1 was found with multiple stab wounds. Evidence points to %p2.
+%p1 got cut deep by %p2.
+%p1 got it stuck to them by %p2.
+%p1 got the sharp one from %p2.
+%p1 is seperated from their spleen by %p2's metal.
+
+#weapon_knife_throwing
+%p1 learns that wasn't a spoon %p2 was holding.
+%p2 conceals his throwing knife in %p2's flesh.
+%p1 caught %p2's throwing knife without their hands.
+%p1 got long distance kabobbed by %p2's spear of HAET.
+%p2 needed a good place to put a throwing knife. %p1 seemed like a good place.
+%p1 feels the sting from %p2's throwing knives.
+
+#weapon_beretta
+%p1 got capped by %p2's Beretta.
+%p2 feels the power of the 9mm Berettas while %p1 feels the oblivion.
+%p2 is cut down in their prime by %p1's 9mm Beretta.
+%p2 fires of a round from their Beretta and %p1 goes down.
+
+#weapon_beretta_dual
+%p1 got capped by %p2's akimbo Berettas.
+%p1 got WOOed by %p2 Berettas akimbo.
+%p1 almost dodged %p2's akimbo Beretta 9s. Almost.
+%p2 pounds the hell out of %p1 with their Berettas akimbo.
+
+#weapon_walther
+%p2 takes a cue from James Bond and eliminates %p1.
+Cue the James Bond music while we watch the slow-motion replay of %p2 killing %p1.
+%p2 does a better job than Roger Moore; %p1 does a worse job than an unsuspecting goon.
+%p1 got covert bitch slapped by %p2's Walther.
+%p1 could hear searing death coming from %p2's silenced Walther.
+%p2 was a sneaky bastard and put a bullet into %p1's soft tissue with his Walther.
+%p1 didn't hear %p2's Walther style death coming straight for %p1.
+
+#weapon_walther_dual
+%p1 never heard %p2's searing silenced akimbo Walthers coming. That's why %p1 is going.
+%p2 fired off two rounds from two Walther PPKs before %p1 could have a chance.
+%p2 went Walthers akimbo all over %p2's ass.
+%p1 is put down by Walthers deux from %p2.
+
+#weapon_tokarev
+%p1 got 9mm metal from %p2's Tokarev.
+%p1 couldn't withstand the Russian "charm" of %p2's Tokarev.
+Da. %p1 is dead from comrade %p2's Tokarev.
+%p2 lays down some red heat from their Tokarev. %p1 is stone cold from it.
+
+#weapon_tokarev_dual
+%p2's Tokarev in doubles takes out %p1 no problem.
+%p1 thinks that they can outrun %p2's Tokarev akimbo. Nope.
+%p1 takes some red heat from %p2's Tokarev in deux.
+%p1 is put down by comrade %p2's Tokarev akimbo action.
+
+#weapon_cz75
+%p1 finds that a 9mm just isn't a 9mm until it's fired from %p2's CZ-75.
+%p1 takes one too many in the ass from %p2's CZ-75.
+%p2's CZ-75 rounds meet with %p1 and win.
+%p1 is OWNED by %p2's CZ-75 9mm goodness.
+%p1 gets some CZ-75 metal from %p2.
+
+#weapon_cz75_dual
+%p2 reads too much Gunsmith Cats for %p1's good.
+The CZ-75's quality craftsmanship proved to be %p1's undoing when wielded by %p2.
+%p2 makes short order of %p1 with their two CZ-75.
+%p1 is gunned down mid sentence by %p2's rude akimbo CZ-75 interuption.
+%p1 is hauled off after trying to grab %p2's 9mm CZ-75 akimbo rounds mid flight.
+%p1 gets two caps in the head thanks to %p2's CZ-75 akimbo action.
+
+#weapon_glock
+%p2 proves that functionality wins over good looks any day. ESPECIALLY %p1's looks.
+%p1 considers buying a Glock for themselves just before catching %p2's .40SW round.
+%p1 is abused by %p2's Glock.
+%p2 hid their Glock so well %p1 never saw it until it was too late.
+%p1 thought that a Glock couldn't hurt them that bad. %p2 proved them wrong.
+%p1 knows what heaven looks like now. %p2's Glock showed them the light.
+
+#weapon_glock_dual
+%p1 says hello. %p2 says goodbye with their Glocks.
+%p1 never suspected %p2's Glocks akimbo would be so nasty to them.
+%p2 sure hid those two Glocks well. Now %p1 wishes they had a pair.
+%p1 only had enough time to die when faced with %p2's dual Glocks.
+%p2 fired off enough akimbo Glock action to put down a mule. %p1 is a jackass.
+
+#weapon_hkp7
+%p1 discovers that the small H&K P7M13 in %p2's hand was not a squirtgun.
+%p2 writes 'Shot by H&K P7M13' in the cause of death entry for %p1's death certificate.
+%p1 is astounded with how fast they died at the hands of %p2's HK-P7 heat.
+%p2 uses the solid, fast action of their HK-P7 to put down %p1 post haste.
+%p1 just falls over dead after %p2's HK-P7 came roaring at them.
+%p2's HK-P7 plants several nice center of mass hits in %p1.
+
+#weapon_hkp7_dual
+%p2 trusts in German engineering, much to %p1's misfortune.
+%p2 is a master the dual HK-P7s. Ask %p1.
+%p2 HK-P7s akimbo %p1's pittly ass.
+%p1 is ventilated nicely by %p2's Akimbo HK-P7s.
+%p2 lets %p1 taste his lead stew ala HK-P7 akimbo.
+
+#weapon_eagle357
+%p1 gets a harsh awakening from %p2's .357 Desert Eagle.
+%p2 carries that Desert Eagle .357 around for a reason, %p1.
+%p2's a DE .357 hunter killer and %p1 was their target.
+Well at least %p1 went with style against %p2's DE .357.
+
+#weapon_eagle357_dual
+x2 DE .357 + %p2 = One dead %p1.
+%p1 has their insides made into outsides by %p2's Desert Eagle .357 akimbo.
+%p2 is a x2 DE .357 whore god. %p1 didn't know that.
+
+#weapon_python
+%p1 discovers the lethal simplicity of %p2's Python revolver.
+%p2 finds that %p1's gut is a good place to store spent .357 rounds.
+%p1 got capped by %p2's Python.
+%p1 got their blood thristy ass blown away by %p2's Python.
+%p1 busily fills %p2 with rounds from their Python.
+This is where %p1 dies because %p2 owns a Python.
+
+// Replaces the old Colt definitions
+#weapon_colt
+%p2 proves that what worked at the turn of the last century can still kick %p1's ass.
+%p1 finds out the horrible truth about %p2's Colt 1911.
+%p1 is cut the hell down by %p2's 1911.
+%p2 is a dead shot with the SA 1911-A1 and %p1 just found that out.
+%p1 is sodomized by %p2's .45ACP 1911.
+%p2 puts the smack down on %p1 with their SA 1911-A1.
+
+#weapon_colt_dual
+%p1 admires %p2's Colt 1911s akimbo a bit too closely.
+The Colts were a good choice for %p2. A bad choice for %p1, if you catch my drift.
+%p1 is hard owned by %p2 and their akimbo 1911s.
+%p1 is sadly no more. %p2's SA 1911-A1 are to blame.
+Guns don't kill people. %p2 kills %p1 with 1911s akimbo though.
+%p2 is an evil ass and sticks a bunch of .45ACp rounds into %p1 with dual 1911s.
+
+#weapon_ruger
+It could have been worse. %p2 could've pistol-whipped %p1 with the Ruger instead.
+%p1 takes some serious shit from %p2's Ruger P90.
+%p2 blows %p1 a new asshole with their P90.
+%p1 is laid down hard by %p2's Ruger P90.
+%p1 went out guns blazing against %p2 P90.
+
+#weapon_ruger_dual
+A .45ACP is a horrible thing to waste, so %p2 used TWO Rugers on %p1.
+%p2 fries %p1 with searing akimbo P90 action.
+%p2 is a dead aim with akimbo Rugers P90. %p1 is proof.
+%p1 is pounded out by the heavy ass fire of %p2's akimbo Ruger P90s.
+
+#weapon_sig220
+%p2 follows Scully and Mulder's advice on what pistol to buy. %p1 pays the price.
+%p1 finds the truth really is out there, courtesy of %p2.
+%p1 is SIGnified by %p2.
+%p2 is toting their SIG today, %p1, and you pissed them off.
+%p2 doesn't need to aim for anywhere vital with a SIG P200, %p1.
+A SIG P220 in the hands of %p2 is the reason %p1 looks like Swiss milk byproducts.
+
+#weapon_sig220_dual
+Sig-Sauer, the Swiss know what they're doing. %p1 finds out the hard way with %p2's help.
+%p1 twirls about while %p2 empties their Sig P220s.
+%p2 loves to show of with their dual SIGs. I mean look at poor %p1.
+%p1 is heavily leaded thanks to %p2's SIG P220s akimbo.
+%p2 needs to cool off after capping %p1 with their SIG x2.
+%p1 couldn't get the hell out of the way of %p2's SIG P220s akimbo and paid for it.
+
+#weapon_eagle50
+%p1 got capped by %p2's Desert Eagle 50AE.
+Oooh! %p1 is wronged by %p2's .50AE Desert Eagle.
+%p1 couldn't sidestep %p2's .50AE.
+%p2 ventilated %p1 good with their Desert Eagle 50AE.
+%p2 smears %p1 with their Desert Eagle 50AE.
+%p2 precipitates %p1's balls into shrinking with his "point five oh".
+They call it a .50 Action Express round. I call it %p2 turning %p1 into tenderized meat.
+%p1 discovered that bigger is better, especially when it comes to %p2's .50AE Desert Eagle.
+It went boom. It mutilated %p1. The Punisher would be proud of %p2.
+
+#weapon_mac10
+%p1 gets themself ventilated good and proper with %p2's MAC-10.
+%p2 sprays pure .45ACP death at %p1 with their MAC-10.
+%p1 is Swiss cheese thanks to %p2 and their MAC-10.
+%p2's MAC-10 blankets %p1. Good night, %p1.
+%p1 is covered in .45 ACP MAC-10 rounds from %p2.
+%p2 converts %p1 into a doughnut with MAC-10 sprinkles.
+
+#weapon_microuzi
+%p1 got drilled by %p2's Micro Uzi.
+%p2 played %p1 like he was some sort of security guard, and %p2 was Trinity.
+%p1 is ventilated by %p2's bad ass Micro Uzi 9mm.
+%p1 is still twitching after %p2's evil riddling from the Micro Uzi.
+%p2 decides that %p1 would look better see through ala Micro Uzi.
+%p1 is baptized with a Micro Uzi by %p2 and made "holy".
+Instructions were simple: %p2 holds down trigger, %p1 dies.
+
+#weapon_skorpion
+%p1 feels the sting of %p2's Skorpion.
+%p1 feels a draft. %p2's Skorp put it there.
+%p2 lets a Skorpion powered wind of death loose and %p1 is cut into shreds.
+%p1 fires off a few rounds, but %p2 lays it down thicker with their little Skorps.
+With a name like SKORPION %p1 should have known better than to tease %p2.
+%p1 recieves a fatal Skorpion bite from %p2.
+
+#weapon_SPAS
+%p1 got cut in half by %p2's SPAS shotgun.
+%p1 is filled with %p2's buckshot.
+%p2 can't eat %p1 now! %p1's body is full of SPAS buckshot.
+%p1 thought they were a waskally wabit, but against %p2's SPAS? Not likely.
+%p2 goes hunting and bags a long-horned %p1.
+
+#weapon_winchester
+%p1 discovers the power of the .30-30 when wielded by %p2.
+%p1 got nailed by %p2's Winchester.
+%p2 spincocks their Winchester in time to fill %p1 full of lead.
+%p1 feels the burn of %p2's pure "Winchester Surprise".
+%p2 doesn't have to aim that hard at %p1's fat ass to kill'em with %p2's Winny.
+%p1 catches the .30-30 that %p2 sends their way.
+%p2 uses some tricks from the wild west to put %p1 down.
+
+#.
+%p1 died.
+%p1 has given up %p1's will to live.
+%p1 meets a foul end.
+%p1 is no more.
+%p1 sees the light and a tunnel. Extrapolate.
+%p1 must insert a token to continue play.
+
+#head_*
+%p2 messed up %p1's face.
+%p1 discovers a gaping hole in their cranium - evidence points to %p2.
+%p2 installs some flow-through ventilation and a couple 92cm fans in %p1's head.
+%p1 got capped in the head by %p2.
+%p2 split %p1's melon wide open.
+%p1 has brains! %p2 showed them to the world for convinent viewing.
+%p2 makes %p1's head open as easy as a pizza box. The contents look the same, too.
+%p1 has a hole the size of a barn door in their head courtesy of %p2.
+
+#heart_*
+%p1 has a broken heart, and %p2 is to blame.
+%p1's heart of stone could not stop %p2's bullets.
+%p2 pretended to be Cupid - but they didn't use an arrow on %p1.
+%p1 donated their heart to science; unfortunately, %p2 isn't a very good doctor.
+%p1 got hammered in the heart by %p2.
+%p2 made %p1's heart into a splat mark.
+%p1 is heartless thanks to %p2.
+%p1 is out of heart. It is all over %p2.
+
+#suicide
+%p1 couldn't cut the mustard -Suicide-
+%p1 checked themself out -Suicide-
+%p1 didn't want to feel the pain anymore -Suicide-
+%p1 has lost the fight or flight response -Suicide-
+
+##END##

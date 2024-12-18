@@ -1,0 +1,16 @@
+Name: The Keo Club
+Desiger: shirow (shirow@squadronghost.com)
+Maptype: Opera DM
+#Player: 3+
+
+Description:
+It's late, you're tired, you want a drink.
+Of course, you're going to have to DIVE,
+ROLL and WALLJUMP instead! Death defying
+stunts ahoy!@#
+
+------- MORE -------
+Custom textures by Hickupz
+Angry man by Springer
+Music loop provided by AciDHeLL
+--------------------

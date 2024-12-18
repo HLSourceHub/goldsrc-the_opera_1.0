@@ -1,0 +1,16 @@
+Name: Shaukiwan Holy Catholic Church
+Desiger: T@tsu
+Maptype: Opera FFA
+#Players: 3+
+
+Description:
+Shaukiwan. The place that Xian grew up.
+The Place that Xian's father died.
+The place Xian's life nearly came to an end
+This bittersweet place is now the site of
+Xian's latest fight for his life! This large
+open chruch will ring out with the sounds of
+gunplay this rainy evening. Strap on your
+irons and gird up your courage.
+
+Get ready!!!

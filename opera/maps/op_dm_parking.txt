@@ -1,0 +1,13 @@
+Name: Parking Garage
+Designer: Ross Mansfield
+Type: Opera DM
+#Players: 2-6
+
+Description:
+In the heart of the Hong Kong industrial district,
+This car park is used by day for office workers but 
+by night, a far more sinister side materialises.  
+Illegal firearms and drugs deals are done in its 
+dark depths and someone is sure to get a bad deal...
+
+e-mail comments to ross@particle-systems.com

@@ -1,0 +1,130 @@
+///////////////////// TEXT FILE DESCRIPTION /////////////////////
+// 640x480 text scheme file
+//
+// Resolutions:
+// 	320
+//	400
+//	512
+//	640
+//	800
+//	1024
+//	1152
+//	1280
+//	1600
+//
+
+// SchemeName defines a new scheme
+SchemeName = "Basic Text"
+
+// FontName is the string name of the font the scheme uses
+FontName   = "Times New Roman"
+
+// FontSize defines the height of the font (the rest is derived from that)
+FontSize   = 17
+
+// FontWeight thickens the font (700 is bold, 1400 very bold)
+FontWeight = 0
+
+// foreground colors (RGBA, A=0 being fully transparent, A=255 fully solid)
+FgColor 	 = "255 192 64 255"
+FgColorArmed     = "255 255 255 255"
+FgColorMousedown = "255 255 255 255"
+
+// background colors (note that these always default to "0 0 0 0")
+BgColor          = "0 0 0 0"
+BgColorArmed     = "0 0 0 0"
+BgColorMousedown = "0 0 0 0"
+
+///////////////////// TFC FONTS /////////////////////
+
+
+// DEFAULT BUTTON TEXT
+SchemeName = "Primary Button Text"
+FontName = "Times New Roman"
+FontSize = 16
+FgColor = "255 170 0 255"
+BgColor = "0 0 0 141"
+FgColorArmed = "255 255 255 255"
+BgColorArmed = "255 170 0 67"
+
+// COMMAND MENU TEXT
+SchemeName = "CommandMenu Text"
+FontName = "Times New Roman"
+FontSize = 14
+
+// SCOREBOARD TEXT
+SchemeName = "Scoreboard Text"
+FontName = "Times New Roman"
+FontSize = 14
+FontWeight = 0
+
+// TITLE FONT in TFC selection menus
+SchemeName = "Title Font"
+FontName = "Arial"
+FontSize = 20
+FontWeight = 0
+FgColor = "255 192 64 255"
+
+// CLASSDESC, MAPDESC, MOTD text windows
+SchemeName = "Briefing Text"
+FontName = "Times New Roman"
+FontSize = 14
+FontWeight = 0
+FgColor = "255 192 64 255"
+
+// Team info text (list of players, etc)
+// fgColor is automatically set to the teams color
+SchemeName = "Team Info Text"
+FontName = "Times New Roman"
+FontSize = 14
+FontWeight = 0
+
+// MENU SYSTEM - Title text
+SchemeName = "Menu Title"
+FontName = "Arial"
+FontSize = 24
+FontWeight = 0
+FgColor = "255 255 255 255"
+
+// MENU SYSTEM - Entry
+SchemeName = "Menu Entries"
+FontName = "Times New Roman"
+FontSize = 20
+FontWeight = 0
+FgColor = "255 255 255 255"
+
+// MENU SYSTEM - Section buttons
+SchemeName = "Menu Section"
+FontName = "Times New Roman"
+FontSize = 14
+FontWeight = 0
+FgColor = "0 0 0 255"
+
+// MENU SYSTEM - Entry selected
+SchemeName = "Menu Selected"
+FontName = "Times New Roman"
+FontSize = 20
+FontWeight = 0
+FgColor = "255 255 64 255"
+
+// MENU SYSTEM - Description
+SchemeName = "Menu Description"
+FontName = "Times New Roman"
+FontSize = 14
+FontWeight = 0
+FgColor = "255 255 255 255"
+
+// MENU SYSTEM - Menu Item
+SchemeName = "Menu Item"
+FontName = "Times New Roman"
+FontSize = 16
+FontWeight = 0
+FgColor = "255 255 255 255"
+
+// MENU SYSTEM - Menu Cash
+SchemeName = "Menu Cash"
+FontName = "Times New Roman"
+FontSize = 15
+FontWeight = 0
+FgColor = "0 255 0 255"
+

@@ -1,0 +1,9 @@
+// Half-Life Texture DEBRIS Details.
+//  'M' metal, 'V' ventillation, 'D' dirt, 'S' slosh liquid 
+//  'T' tile, 'G' grate (Concrete is the default), 'W' wood, 'P' computer, 'Y' glass
+// NOTE: only the first 12 characters of the texture name are used
+
+// Second character is '0'-'9', '5' is default.
+
+// EXAMPLE:
+// Y5 +aflor_white1
